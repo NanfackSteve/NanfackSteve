@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Nanfack Steve </h1><br/>
+<h1 align="center">Hi 👋, I'm Steve Ulrich </h1><br/>
 <h3 align="center">A passionate Developper/Administrator and Open Source contributor. ⚡</h3>
 <h3 align="center">🌱 I’m currently learning Android (Kotlin) </h3>
  
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/2x/4a90e2/old-vmware-logo.png" alt="vmware workstation" width="23" height="23"/>
 </p>
 
-- 👨‍ 💻 All of my projects are available  [here](https://github.com/NanfackSteve?tab=repositories)
+- 👨🏽‍💻All of my projects are available  [here](https://github.com/NanfackSteve?tab=repositories)
 
 - 💬 Ask me about **anything**
 
