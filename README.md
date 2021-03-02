@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Nanfack Steve </h1>
-<h3 align="center">A passionate  and Open Source contributor  </h3>
+<h3 align="center">A passionate Developper and Open Source contributor.<br/>🌱 I’m currently learning Android (Kotlin) and Python 3.x  </h3>
 
 <!-- ![image](source) -->
 
 <p align="left"> 
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/>  
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="20" height="20"/>
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apacheflink.svg" alt="flinks" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/>
 </p>
 
@@ -36,16 +35,17 @@ Here are some ideas to get you started:
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=nanfacksteve&show_icons=true" alt="nanfacksteve" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nanfacksteve&show_icons=false" alt="nanfacksteve" />
   <!-- <img  align="right" src="https://github.com/tomkaX/tomkaX/blob/master/gifs/3aM.gif" width="230"> -->
 </p>
  
 <!-- Don't forget to fork this repo and say thanks to **tomkaX/tomkaX** it  appears on your GitHub profile. -->
 
-<p align="center">
- <a href="https://www.linkedin.com/in/steve-nanfack-048a30207/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/steve-nanfack-048a30207/" height="20" width="20" /></a>
- <a href="https://www.facebook.com/stevebhhj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/stevebhhj/" height="20" width="20" /></a>
-<a href="https://twitter.com/nanfack_steve_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/nanfack_steve_" height="20" width="20" /></a>
+<p align="left">
+
+Follow me on : <a href="https://www.linkedin.com/in/steve-nanfack-048a30207/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/steve-nanfack-048a30207/" height="20" width="20" /></a>
+  <a href="https://www.facebook.com/stevebhhj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/stevebhhj/" height="20" width="20" /></a>
+  <a href="https://twitter.com/nanfack_steve_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/nanfack_steve_" height="20" width="20" /></a>
 
 </p>
 
