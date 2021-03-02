@@ -22,13 +22,14 @@ Here are some ideas to get you started:
    ![image](https://images.squarespace-cdn.com/content/v1/5e4d7de0d74fc34b2460cac6/1582170204144-CMMUVF14OKZ7YELCOSUF/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/DEVOPS+GIF.gif)
   
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=tomkax" alt="tomkaX" />
+  <img src="https://komarev.com/ghpvc/?username=tomkax" alt="tomkaX" />  
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/>  
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="20" height="20"/>
   <img src="https://img.icons8.com/material-rounded/2x/26e07f/android-os.png" alt="android" width="20" height="20"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/>
   <img src="https://img.icons8.com/ios-filled/2x/4a90e2/docker.png" alt="docker" width="20" height="20"/>
   <img src="https://img.icons8.com/color/2x/4a90e2/old-vmware-logo.png" alt="vmware workstation" width="20" height="20"/>
+  <img src="https://img.icons8.com/color/2x/linux.png" alt="GNU/Linux" width="20" height="20"/>
 </p>
 
 - 👨‍ 💻 All of my projects are available  [here](https://github.com/NanfackSteve?tab=repositories)
