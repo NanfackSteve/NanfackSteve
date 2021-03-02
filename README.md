@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=tomkax" alt="tomkaX" width="110" height="23" />  
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="23" height="23"/>  
+  <!--<img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="23" height="23"/>  -->
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="23" height="23"/>
   <img src="https://img.icons8.com/material-rounded/2x/26e07f/android-os.png" alt="android" width="23" height="23"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="23" height="23"/>
