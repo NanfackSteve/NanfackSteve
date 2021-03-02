@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Nanfack Steve </h1>
 <h3 align="center">A passionate Developper/Administrator and Open Source contributor.<br/>🌱 I’m currently learning Android (Kotlin) and Python 3.x  </h3>
-
-<!-- ![image](source) -->
-
+ 
+   ![image](https://images.squarespace-cdn.com/content/v1/5e4d7de0d74fc34b2460cac6/1582170204144-CMMUVF14OKZ7YELCOSUF/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/DEVOPS+GIF.gif)
+  
 <p align="center"> 
+
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/>  
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="20" height="20"/>
   <img src="https://img.icons8.com/material-rounded/2x/26e07f/android-os.png" alt="android" width="20" height="20"/>
