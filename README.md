@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <p align="left">
 
 Follow me on : <a href="https://www.linkedin.com/in/steve-nanfack-048a30207/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/steve-nanfack-048a30207/" height="20" width="20" /></a>
-  <a href="https://www.facebook.com/stevebhhj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/stevebhhj/" height="20" width="20" /></a>
+  <a href="https://www.facebook.com/nanfack.steve7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/stevebhhj/" height="20" width="20" /></a>
   <a href="https://twitter.com/nanfack_steve_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/nanfack_steve_" height="20" width="20" /></a>
 
 </p>
