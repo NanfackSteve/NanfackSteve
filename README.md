@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=nanfacksteve&show_icons=true" alt="nanfacksteve" />
-  <img  align="right" src="https://github.com/NanfackSteve/NanfackSteve/blob/master/gifs/3aM.gif" width="230">
+  <!--<img  align="right" src="https://github.com/NanfackSteve/NanfackSteve/blob/master/gifs/3aM.gif" width="230"> -->
 </p>
  
 <!-- Don't forget to fork this repo and say thanks to **tomkaX/tomkaX** it  appears on your GitHub profile. -->
