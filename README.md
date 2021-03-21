@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=nanfacksteve&show_icons=true" alt="nanfacksteve" />
   <!--<img  align="right" src="https://github.com/NanfackSteve/NanfackSteve/blob/master/gifs/3aM.gif" width="230"> -->
 </p>
- 
+
 <!-- Don't forget to fork this repo and say thanks to **tomkaX/tomkaX** it  appears on your GitHub profile. -->
 
 <p align="left">
@@ -54,6 +54,4 @@ Follow me on : <a href="https://www.linkedin.com/in/steve-nanfack-048a30207/" ta
   <a href="https://twitter.com/nanfack_steve_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/nanfack_steve_" height="20" width="20" /></a>
 
 </p>
-
-
 
